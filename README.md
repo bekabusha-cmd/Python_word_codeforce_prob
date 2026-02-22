@@ -1,1 +1,0 @@
-# Python_word_codeforce_prob
